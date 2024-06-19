@@ -10,4 +10,4 @@ This study explores the development and implementation of a churn prediction sol
 
 - **Project Document**: The complete documentation of the project, detailing the methodology, implementation, results, and conclusions.
 - **Python Notebook**: A Jupyter notebook containing the data analysis, feature engineering, model building, and evaluation processes.
-- **Interactive Dashboard**: A Power BI or similar interactive dashboard that allows exploration of the model’s predictions and insights.
+- **Interactive Dashboard**: A Power BI dashboard that allows exploration of the model’s predictions and insights.
